@@ -177,4 +177,8 @@ Le contrôle confirme que cette lune est pertinente sur le pliable large, mais q
 - [x] Inspecter la branche et le contenu existant du dépôt Diperso/Jeucartes.
 - [x] Inclure le code, les fichiers de configuration, les ressources visuelles locales et la documentation utile.
 - [x] Mettre à jour les références d’images distantes afin que le dépôt soit autonome.
-- [ ] Commiter et envoyer la synchronisation complète vers GitHub.
+- [x] Commiter et envoyer la synchronisation complète vers GitHub.
+
+### Synchronisation effectuée
+
+Le projet autonome, incluant le code, les images utilisées, les photographies source, les polices locales et la documentation, a été envoyé sur `main` dans le commit `e7cc15cd24bc2d2f3a14b2ea26766fe61046c880`.
